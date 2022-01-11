@@ -1,1 +1,1 @@
-Just run the matlab script
+Just run the matlab script RR.m
